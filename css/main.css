@@ -1,16 +1,16 @@
 html {
-  background-color: #FFFBE0;
+  background-color: #fffbe0;
 }
 
 .background {
-  color: #FAE17B;
+  color: #fae17b;
   text-align: center;
   border-style: solid;
   border-radius: 4px;
-  border-color: #FAE17B;
+  border-color: #fae17b;
   overflow: hidden;
   max-height: 56em;
-  font-family: "Poppins", sans-serif;
+  font-family: Poppins, sans-serif;
 }
 
 .box {
@@ -19,15 +19,15 @@ html {
   text-align: center;
   border-style: solid;
   border-radius: 4px;
-  border-color: #4E4B02;
+  border-color: #4e4b02;
   background: rgba(253, 253, 248, 0.7);
 }
 
 .quote {
   margin-bottom: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: Poppins, sans-serif;
   padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-bottom: 1.5rem;
 }
 
 .author {
