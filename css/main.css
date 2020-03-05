@@ -1,7 +1,3 @@
-html {
-  background-color: #fffbe0;
-}
-
 .background {
   color: #fae17b;
   text-align: center;
@@ -11,6 +7,7 @@ html {
   overflow: hidden;
   max-height: 56em;
   font-family: Poppins, sans-serif;
+  background-color: #fffbe0;
 }
 
 .box {
@@ -32,4 +29,12 @@ html {
 
 .author {
   font-family: "Rock Salt", cursive;
+  margin-bottom: 0;
+  padding-bottom: .5rem;
+}
+
+.absolute {
+  top: 200px;
+  left: 50%;
+  transform: translateX(-50%);
 }
