@@ -2,10 +2,34 @@ html {
   background-color: #FFFBE0;
 }
 
-.relative {
+.background {
   color: #FAE17B;
   text-align: center;
   border-style: solid;
   border-radius: 4px;
   border-color: #FAE17B;
+  overflow: hidden;
+  max-height: 56em;
+  font-family: "Poppins", sans-serif;
+}
+
+.box {
+  width: 22em;
+  height: 22em;
+  text-align: center;
+  border-style: solid;
+  border-radius: 4px;
+  border-color: #4E4B02;
+  background: rgba(253, 253, 248, 0.7);
+}
+
+.quote {
+  margin-bottom: 0;
+  font-family: "Poppins", sans-serif;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.author {
+  font-family: "Rock Salt", cursive;
 }
