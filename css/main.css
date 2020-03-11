@@ -17,7 +17,7 @@
   border-style: solid;
   border-radius: 4px;
   border-color: #4e4b02;
-  background: rgba(253, 253, 248, 0.7);
+  background: rgba(253, 253, 248, .7);
 }
 
 .quote {
